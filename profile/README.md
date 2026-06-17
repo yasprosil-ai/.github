@@ -6,7 +6,7 @@
 с приёмом оплат и AI-логикой. Быстро, без лишнего, с фокусом на результат.
 
 [![Сайт](https://img.shields.io/badge/Сайт-yasprosil--ai.vercel.app-000?style=flat&logo=vercel)](https://yasprosil-ai.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=flat&logo=telegram)](https://t.me/yasprosil_ai)
+[![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=flat&logo=telegram)](https://t.me/yasprosil_ii)
 [![Email](https://img.shields.io/badge/Email-yasprosil.ai@gmail.com-EA4335?style=flat&logo=gmail)](mailto:yasprosil.ai@gmail.com)
 
 ---
@@ -69,5 +69,5 @@
 
 Опишите задачу в Telegram или на почте — отвечу, подскажу решение и сроки.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@yasprosil__ai-2CA5E0?style=flat&logo=telegram)](https://t.me/yasprosil_ai)
+[![Telegram](https://img.shields.io/badge/Telegram-@yasprosil__ii-2CA5E0?style=flat&logo=telegram)](https://t.me/yasprosil_ii)
 [![Email](https://img.shields.io/badge/Email-yasprosil.ai@gmail.com-EA4335?style=flat&logo=gmail)](mailto:yasprosil.ai@gmail.com)
